@@ -1,6 +1,6 @@
 # John Lemon's Haunted Jaunt: 3D Beginner
 
-This was my first 3D game project in Unity, made on Learn Unity.
+This was my first 3D game project in Unity, made from Learn Unity.
 
 <a id="raw-url" href="https://drive.google.com/file/d/144NzUvX0gyMzjKOHMB9SPf0JG6kAmx8e/view?usp=sharing">Windows Version</a>
 
